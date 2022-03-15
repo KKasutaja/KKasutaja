@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KKasutaja
 - 👀 I’m interested in FiveM developement.
 - 🌱 I’m currently learning Lua and HTML.
-- 📫 How to reach me: Kasutaja#9007 at discord.
+- 📫 How to reach me: KKasutaja#9007 at discord.
 
 <!---
 KKasutaja/KKasutaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
